@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\source\\repos\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj": {}
+    "E:\\source\\repos\\AuditManagement\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj": {}
   },
   "projects": {
-    "E:\\source\\repos\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj": {
+    "E:\\source\\repos\\AuditManagement\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\source\\repos\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj",
+        "projectUniqueName": "E:\\source\\repos\\AuditManagement\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj",
         "projectName": "AuthorizationService",
-        "projectPath": "E:\\source\\repos\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj",
+        "projectPath": "E:\\source\\repos\\AuditManagement\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj",
         "packagesPath": "C:\\Users\\AKANKSHA\\.nuget\\packages\\",
-        "outputPath": "E:\\source\\repos\\AuthorizationService\\AuthorizationService\\obj\\",
+        "outputPath": "E:\\source\\repos\\AuditManagement\\AuthorizationService\\AuthorizationService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKANKSHA\\AppData\\Roaming\\NuGet\\NuGet.Config",

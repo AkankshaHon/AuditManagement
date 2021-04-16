@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\source\\repos\\AuditBenchmarkModule\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj",
+      "projectUniqueName": "E:\\source\\repos\\AuditManagement\\AuditBenchmarkModule\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj",
       "projectName": "AuditBenchmarkModule",
-      "projectPath": "E:\\source\\repos\\AuditBenchmarkModule\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj",
+      "projectPath": "E:\\source\\repos\\AuditManagement\\AuditBenchmarkModule\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj",
       "packagesPath": "C:\\Users\\AKANKSHA\\.nuget\\packages\\",
-      "outputPath": "E:\\source\\repos\\AuditBenchmarkModule\\AuditBenchmarkModule\\obj\\",
+      "outputPath": "E:\\source\\repos\\AuditManagement\\AuditBenchmarkModule\\AuditBenchmarkModule\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AKANKSHA\\AppData\\Roaming\\NuGet\\NuGet.Config",

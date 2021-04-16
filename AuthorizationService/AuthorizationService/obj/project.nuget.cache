@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "twEWTbLLcexyKuQxqWZw2kHlO5k/DNlXAYv8xdVtLj+LRjCY73HNSvkqJ8qfZ0SJGurvGpI0V4cWnytR2npsyg==",
+  "dgSpecHash": "nhL5VQiLarQaHuDA7788ioUo1zHZf/Wavtv86KJ5pdj3G4V1FRVw2iXZVfIZJvo+ijOMnHg4JlxTNo+81YB4vw==",
   "success": true,
-  "projectFilePath": "E:\\source\\repos\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj",
+  "projectFilePath": "E:\\source\\repos\\AuditManagement\\AuthorizationService\\AuthorizationService\\AuthorizationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AKANKSHA\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.5\\microsoft.aspnetcore.authentication.jwtbearer.5.0.5.nupkg.sha512",
     "C:\\Users\\AKANKSHA\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

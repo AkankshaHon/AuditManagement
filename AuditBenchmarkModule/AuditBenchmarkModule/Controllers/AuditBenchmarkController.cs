@@ -13,11 +13,9 @@ namespace AuditBenchmarkModule.Controllers
     [ApiController]
     public class AuditBenchmarkController : ControllerBase
     {
-        //private readonly log4net.ILog _log4net;
         private readonly IBenchmarkProvider objProvider;
         public AuditBenchmarkController(IBenchmarkProvider _objProvider)
         {
-            //_log4net = log4net.LogManager.GetLogger(typeof(AuditBenchmarkController));
             objProvider = _objProvider;
         }
 
@@ -26,7 +24,6 @@ namespace AuditBenchmarkModule.Controllers
         public IActionResult AuditBenchmark()
         {
             List<AuditBenchmark> listOfProvider = new List<AuditBenchmark>();
-            //_log4net.Info(" Http GET request " + nameof(AuditBenchmarkController));
             try
             {
                 listOfProvider = objProvider.GetBenchmark();
@@ -34,7 +31,6 @@ namespace AuditBenchmarkModule.Controllers
             }
             catch (Exception e)
             {
-                //_log4net.Error(" Exception here" + e.Message + " " + nameof(AuditBenchmarkController));
                 return StatusCode(500);
             }
         }

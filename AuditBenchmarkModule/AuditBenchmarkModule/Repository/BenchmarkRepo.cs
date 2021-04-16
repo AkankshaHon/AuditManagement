@@ -8,7 +8,6 @@ namespace AuditBenchmarkModule.Repository
 {
     public class BenchmarkRepo:IBenchmarkRepo
     {
-        //private readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(BenchmarkRepo));
         private static List<AuditBenchmark> AuditBenchmarkList = new List<AuditBenchmark>()
         {
             new AuditBenchmark
@@ -24,7 +23,6 @@ namespace AuditBenchmarkModule.Repository
         };
         public List<AuditBenchmark> GetNolist()
         {
-            //_log4net.Info(" Http GET request " + nameof(BenchmarkRepo));
             List<AuditBenchmark> listOfCriteria = new List<AuditBenchmark>();
             try
             {
@@ -33,7 +31,6 @@ namespace AuditBenchmarkModule.Repository
             }
             catch (Exception e)
             {
-                //_log4net.Error(" Exception here" + e.Message + " " + nameof(BenchmarkRepo));
                 return null;
             }
 
