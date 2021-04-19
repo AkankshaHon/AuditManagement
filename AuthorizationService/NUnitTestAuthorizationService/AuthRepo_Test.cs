@@ -1,20 +1,20 @@
 using AuthorizationService.Repository;
 using Microsoft.Extensions.Configuration;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
+using NUnit.Framework;
 using System;
 
 namespace NUnitTestAuthorizationService
 {
-    [TestClass]
     public class AuthRepo_Test
     {
         public string token_null;
+        [SetUp]
         public void Setup()
         {
             token_null = null;
         }
-        [TestMethod]
+        [Test]
         public void GenerateJWT_correctInput_tokenNotnull()
         {
             try
@@ -31,8 +31,8 @@ namespace NUnitTestAuthorizationService
             }
         }
 
-        [TestMethod]
-        public void generateJWT_invalidInput_tokenNotnull()
+        [Test]
+        public void GenerateJWT_invalidInput_tokenNotnull()
         {
             try
             {

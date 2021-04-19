@@ -1,10 +1,5 @@
-﻿using AuthorizationService.Providers;
-using Microsoft.AspNetCore.Http;
+﻿using AuthorizationService.Repository;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace AuthorizationService.Controllers
 {
@@ -12,16 +7,16 @@ namespace AuthorizationService.Controllers
     [ApiController]
     public class TokenController : ControllerBase
     {
-        private readonly IAuthProvider _authProvider;
-        public TokenController(IAuthProvider authProvider)
+        private readonly IAuthRepo _authRepo;
+        public TokenController(IAuthRepo authRepo)
         {
-            _authProvider = authProvider;
+            _authRepo = authRepo;
         }
 
         [HttpGet]
         public IActionResult GenerateJSONWebToken()
         {
-            string token = _authProvider.GetJsonWebToken();
+            string token = _authRepo.GenerateJWT(); // _authProvider.GetJsonWebToken();
             if (token == null)
             {
                 return BadRequest(token);

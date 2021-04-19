@@ -111,3 +111,10 @@ E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\obj\Debug
 E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\obj\Debug\net5.0\ref\BenchmarkRepoTest.dll
 E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\obj\Debug\net5.0\BenchmarkRepoTest.pdb
 E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\obj\Debug\net5.0\BenchmarkRepoTest.genruntimeconfig.cache
+E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\bin\Debug\net5.0\nunit.engine.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\bin\Debug\net5.0\nunit.engine.api.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\bin\Debug\net5.0\nunit.engine.core.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\BenchmarkRepoTest\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll

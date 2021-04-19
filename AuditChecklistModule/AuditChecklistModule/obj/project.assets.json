@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\source\\repos\\AuditChecklistModule\\AuditChecklistModule\\AuditChecklistModule.csproj",
+      "projectUniqueName": "E:\\source\\repos\\AuditManagement\\AuditChecklistModule\\AuditChecklistModule\\AuditChecklistModule.csproj",
       "projectName": "AuditChecklistModule",
-      "projectPath": "E:\\source\\repos\\AuditChecklistModule\\AuditChecklistModule\\AuditChecklistModule.csproj",
+      "projectPath": "E:\\source\\repos\\AuditManagement\\AuditChecklistModule\\AuditChecklistModule\\AuditChecklistModule.csproj",
       "packagesPath": "C:\\Users\\AKANKSHA\\.nuget\\packages\\",
-      "outputPath": "E:\\source\\repos\\AuditChecklistModule\\AuditChecklistModule\\obj\\",
+      "outputPath": "E:\\source\\repos\\AuditManagement\\AuditChecklistModule\\AuditChecklistModule\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AKANKSHA\\AppData\\Roaming\\NuGet\\NuGet.Config",

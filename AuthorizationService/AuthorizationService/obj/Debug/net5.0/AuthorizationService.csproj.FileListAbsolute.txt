@@ -36,6 +36,11 @@ E:\source\repos\AuthorizationService\AuthorizationService\bin\Debug\net5.0\Micro
 E:\source\repos\AuthorizationService\AuthorizationService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\appsettings.Development.json
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\appsettings.json
+E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\nunit.engine.dll
+E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\nunit.engine.api.dll
+E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\nunit.engine.core.dll
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\AuthorizationService.exe
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\AuthorizationService.deps.json
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\AuthorizationService.runtimeconfig.json
@@ -44,6 +49,7 @@ E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\De
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\ref\AuthorizationService.dll
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\AuthorizationService.pdb
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
@@ -54,6 +60,7 @@ E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\De
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\obj\Debug\net5.0\AuthorizationService.csprojAssemblyReference.cache
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\obj\Debug\net5.0\AuthorizationService.GeneratedMSBuildEditorConfig.editorconfig
 E:\source\repos\AuditManagement\AuthorizationService\AuthorizationService\obj\Debug\net5.0\AuthorizationService.AssemblyInfoInputs.cache

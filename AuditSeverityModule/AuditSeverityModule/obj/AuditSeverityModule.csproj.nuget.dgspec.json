@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\source\\repos\\AuditSeverityModule\\AuditSeverityModule\\AuditSeverityModule.csproj": {}
+    "E:\\source\\repos\\AuditManagement\\AuditSeverityModule\\AuditSeverityModule\\AuditSeverityModule.csproj": {}
   },
   "projects": {
-    "E:\\source\\repos\\AuditSeverityModule\\AuditSeverityModule\\AuditSeverityModule.csproj": {
+    "E:\\source\\repos\\AuditManagement\\AuditSeverityModule\\AuditSeverityModule\\AuditSeverityModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\source\\repos\\AuditSeverityModule\\AuditSeverityModule\\AuditSeverityModule.csproj",
+        "projectUniqueName": "E:\\source\\repos\\AuditManagement\\AuditSeverityModule\\AuditSeverityModule\\AuditSeverityModule.csproj",
         "projectName": "AuditSeverityModule",
-        "projectPath": "E:\\source\\repos\\AuditSeverityModule\\AuditSeverityModule\\AuditSeverityModule.csproj",
+        "projectPath": "E:\\source\\repos\\AuditManagement\\AuditSeverityModule\\AuditSeverityModule\\AuditSeverityModule.csproj",
         "packagesPath": "C:\\Users\\AKANKSHA\\.nuget\\packages\\",
-        "outputPath": "E:\\source\\repos\\AuditSeverityModule\\AuditSeverityModule\\obj\\",
+        "outputPath": "E:\\source\\repos\\AuditManagement\\AuditSeverityModule\\AuditSeverityModule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKANKSHA\\AppData\\Roaming\\NuGet\\NuGet.Config",

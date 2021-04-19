@@ -118,3 +118,10 @@ E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationServi
 E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationService\obj\Debug\net5.0\ref\NUnitTestAuthorizationService.dll
 E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationService\obj\Debug\net5.0\NUnitTestAuthorizationService.pdb
 E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationService\obj\Debug\net5.0\NUnitTestAuthorizationService.genruntimeconfig.cache
+E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationService\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationService\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationService\bin\Debug\net5.0\nunit.engine.dll
+E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationService\bin\Debug\net5.0\nunit.engine.api.dll
+E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationService\bin\Debug\net5.0\nunit.engine.core.dll
+E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationService\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\source\repos\AuditManagement\AuthorizationService\NUnitTestAuthorizationService\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll

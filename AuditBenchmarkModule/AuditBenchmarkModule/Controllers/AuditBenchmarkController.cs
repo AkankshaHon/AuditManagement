@@ -1,5 +1,6 @@
 ﻿using AuditBenchmarkModule.Model;
 using AuditBenchmarkModule.Providers;
+using AuditBenchmarkModule.Repository;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;

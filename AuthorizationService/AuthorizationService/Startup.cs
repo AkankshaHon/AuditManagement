@@ -1,20 +1,12 @@
-using AuthorizationService.Providers;
 using AuthorizationService.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.IdentityModel.Tokens;
-using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace AuthorizationService
 {
@@ -37,8 +29,8 @@ namespace AuthorizationService
             //    c.SwaggerDoc("v1", new OpenApiInfo { Title = "AuthorizationService", Version = "v1" });
             //});
             services.AddSwaggerGen();
-            services.AddScoped<IAuthProvider, AuthProvider>();
             services.AddScoped<IAuthRepo, AuthRepo>();
+
             var key = Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]);
 
             services.AddAuthentication(x =>

@@ -40,7 +40,6 @@ E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\De
 E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\net5.0\AuditBenchmarkModule.csprojAssemblyReference.cache
 E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\net5.0\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
 E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\net5.0\AuditBenchmarkModule.AssemblyInfoInputs.cache
 E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\net5.0\AuditBenchmarkModule.AssemblyInfo.cs
@@ -56,3 +55,11 @@ E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\obj\De
 E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\net5.0\ref\AuditBenchmarkModule.dll
 E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\net5.0\AuditBenchmarkModule.pdb
 E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\net5.0\AuditBenchmarkModule.genruntimeconfig.cache
+E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\net5.0\nunit.engine.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\net5.0\nunit.engine.api.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\net5.0\nunit.engine.core.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+E:\source\repos\AuditManagement\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\net5.0\AuditBenchmarkModule.csprojAssemblyReference.cache
